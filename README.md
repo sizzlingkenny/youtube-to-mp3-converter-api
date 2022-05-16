@@ -1,4 +1,4 @@
-<b>ytmp3 api to convert youtube videos into mp3 and mp4 using developer free api buttons to emebed on your website</b>
+<b>youtube to mp3 api - ytmp3 to convert youtube videos into mp3 and mp4 using developer free api buttons to emebed on your website</b>
 <br><br>
 <b>Youtube to Mp3 Converter Features:</b>
 <br>

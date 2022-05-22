@@ -10,4 +10,4 @@ Custom Background Color Parameter to Suits your Website Theme
 <br><br>
 API URL: <a href="https://ytmp3api.cyou/">ytmp3api</a>
 <br>
-Working URL: <a href="https://www.mp3juice.cyou/">mp3juices</a>
+Working URL: <a href="https://mp3converter.cyou/">mp3converter</a>

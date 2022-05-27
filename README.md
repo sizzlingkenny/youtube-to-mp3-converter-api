@@ -8,15 +8,8 @@ Youtube to Mp4 Button
 <br>
 Custom Background Color Parameter to Suits your Website Theme
 <br>
-Search Youtube and get the following
-1. Title<br>
-2. Thumbnail<br>
-3. Channel Title<br>
-4. Channel ID<br>
-5. Published<br>
-6. Duration<br>
-7. View Count<br>
-<br>
+Searching Youtube Videos and getting Titles
+<br><br>
 API URL: <a href="https://ytmp3api.cyou/">youtube to mp3 api</a>
 <br>
 Working Demo URL: <a href="https://mp3converter.cyou/">mp3converter</a>

@@ -1,5 +1,5 @@
 <?php
-ini_set('display_errors',1);
+ini_set('display_errors',0);
 $key = $_POST['q'];
 $key2 = str_replace(' ','+',$key);
 ?>
